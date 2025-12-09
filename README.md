@@ -1,2 +1,2 @@
-# stuart-thomson-uageosciences-website
+# stuart-thomson-website
 My Department of Geosciences Website
